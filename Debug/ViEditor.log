@@ -1,0 +1,53 @@
+﻿  Editor.cpp
+c:\users\owner\documents\homework\csc326\program\vieditor\point.inl(15): warning C4812: obsolete declaration style: please use 'Point<TYPE>::Point' instead
+c:\users\owner\documents\homework\csc326\program\vieditor\linkedlist.h(38): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  c:\users\owner\documents\homework\csc326\program\vieditor\linkedlist.h(43): note: see reference to class template instantiation 'LinkedList<ItemType>' being compiled
+c:\users\owner\documents\homework\csc326\program\vieditor\linkedlist.h(42): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\owner\documents\homework\csc326\program\vieditor\linkedlist.inl(46): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\owner\documents\homework\csc326\program\vieditor\linkedlist.inl(64): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\owner\documents\homework\csc326\program\vieditor\binarytreeinterface.h(59): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  c:\users\owner\documents\homework\csc326\program\vieditor\binarytreeinterface.h(78): note: see reference to class template instantiation 'BinaryTreeInterface<ItemType>' being compiled
+c:\users\owner\documents\homework\csc326\program\vieditor\binarynodetree.h(78): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  c:\users\owner\documents\homework\csc326\program\vieditor\binarynodetree.h(97): note: see reference to class template instantiation 'BinaryNodeTree<ItemType>' being compiled
+c:\users\owner\documents\homework\csc326\program\vieditor\binarynodetree.h(83): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\owner\documents\homework\csc326\program\vieditor\binarynodetree.inl(295): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\owner\documents\homework\csc326\program\vieditor\binarynodetree.inl(329): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\owner\documents\homework\csc326\program\vieditor\binarysearchtree.h(65): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  c:\users\owner\documents\homework\csc326\program\vieditor\binarysearchtree.h(83): note: see reference to class template instantiation 'BinarySearchTree<ItemType>' being compiled
+c:\users\owner\documents\homework\csc326\program\vieditor\binarysearchtree.h(66): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\owner\documents\homework\csc326\program\vieditor\binarysearchtree.h(70): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\owner\documents\homework\csc326\program\vieditor\binarysearchtree.inl(226): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\owner\documents\homework\csc326\program\vieditor\binarysearchtree.inl(236): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\owner\documents\homework\csc326\program\vieditor\binarysearchtree.inl(261): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\owner\documents\homework\csc326\program\vieditor\editor.cpp(25): warning C4101: 'coord': unreferenced local variable
+c:\users\owner\documents\homework\csc326\program\vieditor\editor.cpp(121): warning C4244: '=': conversion from 'wint_t' to 'char', possible loss of data
+c:\users\owner\documents\homework\csc326\program\vieditor\editor.cpp(127): warning C4244: '=': conversion from 'wint_t' to 'char', possible loss of data
+c:\users\owner\documents\homework\csc326\program\vieditor\editor.cpp(148): warning C4018: '>': signed/unsigned mismatch
+c:\users\owner\documents\homework\csc326\program\vieditor\editor.cpp(203): warning C4018: '<': signed/unsigned mismatch
+c:\users\owner\documents\homework\csc326\program\vieditor\editor.cpp(291): warning C4244: '=': conversion from 'wint_t' to 'char', possible loss of data
+c:\users\owner\documents\homework\csc326\program\vieditor\editor.cpp(318): warning C4244: '=': conversion from 'wint_t' to 'char', possible loss of data
+c:\users\owner\documents\homework\csc326\program\vieditor\editor.cpp(371): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+c:\users\owner\documents\homework\csc326\program\vieditor\linkedlist.h(38): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  c:\users\owner\documents\homework\csc326\program\vieditor\linkedlist.h(43): note: see reference to class template instantiation 'LinkedList<ItemType>' being compiled
+c:\users\owner\documents\homework\csc326\program\vieditor\linkedlist.h(42): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\owner\documents\homework\csc326\program\vieditor\linkedlist.inl(46): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\owner\documents\homework\csc326\program\vieditor\linkedlist.inl(64): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\owner\documents\homework\csc326\program\vieditor\point.inl(15): warning C4812: obsolete declaration style: please use 'Point<TYPE>::Point' instead
+c:\users\owner\documents\homework\csc326\program\vieditor\binarytreeinterface.h(59): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  c:\users\owner\documents\homework\csc326\program\vieditor\binarytreeinterface.h(78): note: see reference to class template instantiation 'BinaryTreeInterface<ItemType>' being compiled
+c:\users\owner\documents\homework\csc326\program\vieditor\binarynodetree.h(78): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  c:\users\owner\documents\homework\csc326\program\vieditor\binarynodetree.h(97): note: see reference to class template instantiation 'BinaryNodeTree<ItemType>' being compiled
+c:\users\owner\documents\homework\csc326\program\vieditor\binarynodetree.h(83): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\owner\documents\homework\csc326\program\vieditor\binarynodetree.inl(295): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\owner\documents\homework\csc326\program\vieditor\binarynodetree.inl(329): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\owner\documents\homework\csc326\program\vieditor\binarysearchtree.h(65): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  c:\users\owner\documents\homework\csc326\program\vieditor\binarysearchtree.h(83): note: see reference to class template instantiation 'BinarySearchTree<ItemType>' being compiled
+c:\users\owner\documents\homework\csc326\program\vieditor\binarysearchtree.h(66): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\owner\documents\homework\csc326\program\vieditor\binarysearchtree.h(70): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\owner\documents\homework\csc326\program\vieditor\binarysearchtree.inl(226): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\owner\documents\homework\csc326\program\vieditor\binarysearchtree.inl(236): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\owner\documents\homework\csc326\program\vieditor\binarysearchtree.inl(261): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\owner\documents\homework\csc326\program\vieditor\main.cpp(17): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+  ViEditor.vcxproj -> C:\Users\Owner\Documents\Homework\CSC326\Program\ViEditor\Debug\ViEditor.exe
